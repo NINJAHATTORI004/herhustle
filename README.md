@@ -1,6 +1,9 @@
 # HerHustle
 
 [Project Homepage](https://devfolio.co/projects/herhustle-ce6f)
+<div align="center">
+  <img height="300" src=""  />
+</div>
 
 HerHustle is a web platform designed for professional networking, collaboration, and community engagement. Built primarily with TypeScript and featuring both backend and frontend components, it offers a LinkedIn-like experience tailored for empowering users to connect, share, and grow their careers.
 
